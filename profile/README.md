@@ -20,7 +20,7 @@ TBA
 
 ## Contributers
 |**`Name`**|**`Dept`**|**`E-mail`**|**`Role`**|
-|:--------:|:--------:|:----------:|:--------:|
+|----------|----------|------------|----------|
 |Kim Donghyun|Dept. of Information systems|akainoo@hanyang.ac.kr|AI Developer, Frontend Developer|
 |An Soonho|Dept. of Information systems|ash1823@hanyang.ac.kr|Backend Developer|
 |Shin Hyunah|Dept. of Information systems|hyunah0923@hanyang.ac.kr|Frontend Developer, Product Designer|
