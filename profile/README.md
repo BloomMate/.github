@@ -1,4 +1,4 @@
-<img width="938" alt="image" src="https://github.com/BloomMate/.github/assets/60422588/eb263026-ea80-4631-b316-b358768a176d"># 🌾 BloomMate
+# 🌾 BloomMate
 **House Gardening with AI Chat using Tiium and SmartCottage**
 > This software is part of a project for **a software engineering class at Hanyang University**.
 
