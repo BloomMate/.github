@@ -18,6 +18,9 @@ TBA
 ## 💡 Main Functions
 TBA
 
+## 🔗 Links
+- [Figma](https://www.figma.com/file/pAob8LLoxAzJst4vmosErD/SE-Plant?type=design&node-id=321-349amode=design&t=SiQVXpMyvYqygplQ-0) : UI-UX Design Tool
+
 ## Contributers
 |**`Name`**|**`Dept`**|**`E-mail`**|**`Role`**|
 |----------|----------|------------|----------|
