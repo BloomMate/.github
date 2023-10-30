@@ -20,6 +20,7 @@ TBA
 
 ## 🔗 Links
 - [Figma](https://www.figma.com/file/pAob8LLoxAzJst4vmosErD/SE-Plant?type=design&node-id=321-349amode=design&t=SiQVXpMyvYqygplQ-0) : UI-UX Design Tool
+- [dbdocs](https://dbdocs.io/ash1823/BloomMate) : Database Design Tool (ERDiagram)
 
 ## Contributers
 |**`Name`**|**`Dept`**|**`E-mail`**|**`Role`**|
