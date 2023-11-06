@@ -21,6 +21,7 @@ TBA
 ## 🔗 Links
 - [Figma](https://www.figma.com/file/pAob8LLoxAzJst4vmosErD/SE-Plant?type=design&node-id=321-349amode=design&t=SiQVXpMyvYqygplQ-0) : UI-UX Design Tool
 - [dbdocs](https://dbdocs.io/ash1823/BloomMate) : Database Design Tool (ERDiagram)
+- [Postman API](https://documenter.getpostman.com/view/29752660/2s9YR9ZDKr#ff776ee1-427e-4466-a2ab-fad11f15db81) : REST API Design (HTTPs)
 
 ## Contributers
 |**`Name`**|**`Dept`**|**`E-mail`**|**`Role`**|
