@@ -1,6 +1,6 @@
 # 🌾 BloomMate
 **House Gardening with AI Chat using Tiium and SmartCottage**
-> This software is part of a project for **a software engineering class at Hanyang University**.
+> This software is part of a project for **a software engineering class at Hanyang University Information Systems Dept**.
 
 > The class is in collaboration with **LG Electronics**.
 
