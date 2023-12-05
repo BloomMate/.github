@@ -4,6 +4,9 @@
 
 > The class is in collaboration with **LG Electronics**.
 
+![배너](https://github.com/BloomMate/.github/assets/60422588/5d9f4a01-8ce9-4fc8-a5ff-6244f459e4b4)
+
+
 ## 💡 Abstract
 BloomMate is a user-friendly gardening application tailored for beginners or individuals with limited gardening experience, particularly those who have acquired the LG Smart Cottage and intend to optimize their gardening with the LG Tiiun. This app simplifies the gardening process by allowing users to register their plants and access a range of personalized guidance to enhance their gardening skills.
 
