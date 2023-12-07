@@ -34,34 +34,34 @@ The target users of BloomMate are individuals who use SmartCottage's outdoor gar
 BloomMate offers suitable solutions for each of these pain points, including features such as plant chatting, plant diagnosis, Q&A, expert articles, and more.
 
 ## 💡 Main Functions
-The key features of BloomMate can be divided into four categories:
+The core key features of BloomMate can be divided into four categories.
 
 👆 **Plant Log Management**
 
 - Add plants
-- Use AI to diagnose plants and check diagnosis logs
-- Remove sick plants
+- Use AI to diagnose plants and view diagnosis logs
+- Delete diseased plants
 - Harvest plants and view the harvested plant list
-- Review conversation history with AI
+- View conversation history with AI
 
 👆 **Easy Plant Care**
 
 - Get growing tips for specific plants from plant details
 - Access high-quality information through expert articles
 - Ask questions through Q&A
-- Check for plant diseases using AI plant diagnosis
+- Check for diseases using AI plant diagnosis
 
 👆 **Enjoyable Plant Care**
 
-- Receive daily reports from an AI with a plant's perspective
-- Engage in free conversation with an AI that embodies a plant's perspective
+- Receive daily reports created by generative AI as the plant you are growing
+- Engage in free chat with generative AI as the plant you are growing
 
 👆 **Guidance on Appropriate User Actions**
 
-- Provide personalized information using AI
-- Prompt specific actions easily with AI, without inconvenience
-    - Order new seeds when a plant is sick
-    - Order new fertilizers when there are soil issues
+- Provide personalized information using generative AI
+- Easily prompt specific actions using generative AI
+    - Order new seeds when a plant is diseased
+    - Order new fertilizer when there are soil issues
 
 ## 🔗 Links
 
