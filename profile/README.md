@@ -31,12 +31,15 @@ TBA
 TBA
 
 ## 🔗 Links
-- [Demo Video](https://www.youtube.com/watch?v=PZsC4clDS2c) : Using Youtube
-- [BloomMate Blog](https://bloommate.notion.site/About-BloomMate-4a8d8dfca7ed4ef9937b4f1641e0a53d?pvs=4) : Using Notion
-- [Tech Blog](https://medium.com/@akainoo/bloommate-project-blog-f7e30e2f57ff) : Using Medium
-- [UI-UX Design](https://www.figma.com/file/pAob8LLoxAzJst4vmosErD/SE-Plant?type=design&node-id=321-349amode=design&t=SiQVXpMyvYqygplQ-0) : Using Figma
-- [ERDiagram](https://dbdocs.io/ash1823/BloomMate) : Using dbdocs
-- [API Design](https://documenter.getpostman.com/view/29752660/2s9YR9ZDKr) : Using postman
+
+|Name(Link)|Tool|
+|----------|----|
+|[UI-UX Design](https://www.figma.com/file/pAob8LLoxAzJst4vmosErD/SE-Plant?type=design&node-id=321-349amode=design&t=SiQVXpMyvYqygplQ-0)|Figma|
+|[Demo Video](https://www.youtube.com/watch?v=PZsC4clDS2c)|Youtube|
+|[BloomMate Blog](https://bloommate.notion.site/About-BloomMate-4a8d8dfca7ed4ef9937b4f1641e0a53d?pvs=4)|Notion|
+|[Tech Blog](https://medium.com/@akainoo/bloommate-project-blog-f7e30e2f57ff)|Medium|
+|[ERDiagram](https://dbdocs.io/ash1823/BloomMate)|dbdcos|
+|[API Design](https://documenter.getpostman.com/view/29752660/2s9YR9ZDKr)|Postman|
 
 ## Contributers
 |**`Name`**|**`Dept`**|**`E-mail`**|**`Role`**|
