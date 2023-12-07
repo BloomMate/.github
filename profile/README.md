@@ -25,7 +25,13 @@ BloomMate consists of four modules: Frontend, Backend, Machine Learning, and Sta
 Currently, the APK file for Android can be downloaded through Google Drive. We are confident that BloomMate will be a helpful tool in enjoying a pleasant gardening experience at SmartCottage with Tiiun from LG.
 
 ## 💡 Target Users
-TBA
+The target user of BloomMate is the individual using the virtual outdoor flower bed Tiiun in SmartCottage. As they are using a fictional electronic device, the target user is also fictional. This target user faces the following problems:
+
+1. Lack of information and know-how about plants - for people with a "brown thumb"
+2. Boredom when it comes to growing plants
+3. Desire to experience the connection of growing plants through a community
+
+To address each pain point, BloomMate offers appropriate solutions such as chat with plants, plant diagnostics, Q&A, and expert articles.
 
 ## 💡 Main Functions
 TBA
