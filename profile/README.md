@@ -8,20 +8,20 @@
 
 
 ## 💡 Abstract
-BloomMate is an application designed to assist people in growing plants using Tiiun in LG's SmartCottage. In South Korea, there has been a gradual increase in home gardening, particularly in rural homes after retirement, in 2023. However, there is a lack of applications that provide professional assistance in plant cultivation to align with this trend. Additionally, many people face difficulties such as plant diseases or plant death due to the high level of complexity involved in plant cultivation. BloomMate was created to address these issues.
+BloomMate is an application designed to assist people in cultivating plants using Tiiun in LG's SmartCottage. The COVID-19 pandemic has led to a significant increase in home gardening, resulting in a growing market. To address this trend, BloomMate was created as a solution to the lack of applications that provide professional plant growth assistance. Many people face difficulties such as plant diseases or deaths due to the complexity of plant cultivation.
 
-The key features of BloomMate can be categorized into four areas:
+BloomMate offers key features in four categories:
 
-1. Plant Log Management: Users can manage logs throughout the process of planting and harvesting plants.
-2. Easy Plant Care: Users are provided with detailed plant information, expert articles, Q&A, and AI plant diagnosis to help them easily grow plants.
-3. Enjoyable Plant Care: Users can engage in chat conversations with a generative AI that has knowledge about their plants.
-4. Guide Appropriate User Actions: Customized information and specific actions, such as one-click purchases, are provided through the use of generative AI.
+1. Plant log management: Users can manage logs throughout the entire planting and harvesting process.
+2. Easy plant cultivation: Detailed plant information, expert articles, Q&A, and AI plant diagnosis are provided to help users grow plants easily.
+3. Enjoyable plant cultivation: Users can engage in chat functionality with an AI trained on the plants they are growing.
+4. Guide appropriate user actions: AI provides customized information and encourages specific actions, such as one-click purchases.
 
-These features are expected to significantly reduce the difficulties that users encounter when growing plants.
+These features aim to alleviate the difficulties users encounter when cultivating plants.
 
-BloomMate consists of four modules: Frontend, Backend, Machine Learning, and Static Data Storage. Except for Static Data Storage, all modules were created by team members and can be found on GitHub. The overall architecture follows the MVC pattern, and the Machine Learning module uses the Resnet-50 model, which has been converted to a TensorFlow Lite model.
+BloomMate consists of four modules: Frontend, Backend, Machine Learning, and Static Data Storage. All modules, except for Static Data Storage, were developed by team members and can be found on Github. The overall architecture follows the MVC pattern, and the Machine Learning module uses the resnet-50 model, which has been converted into a TensorFlow Lite model.
 
-Currently, the Android APK file for BloomMate can be downloaded through Google Drive. We are confident that BloomMate will be a valuable tool for enjoying a delightful horticultural life in SmartCottage's Tiiun.
+Currently, BloomMate can be downloaded as an APK file for Android via Google Drive. We are confident that BloomMate will enhance the gardening experience with Tiiun in LG's SmartCottage.
 
 ## 💡 Target Users
 The target users of BloomMate are individuals who use SmartCottage's outdoor garden Tiiun. These users face the following issues:
