@@ -34,7 +34,34 @@ The target user of BloomMate is the individual using the virtual outdoor flower 
 To address each pain point, BloomMate offers appropriate solutions such as chat with plants, plant diagnostics, Q&A, and expert articles.
 
 ## 💡 Main Functions
-TBA
+The key features of BloomMate can be divided into four categories:
+
+👆 **Plant Log Management**
+
+- Add plants
+- Use AI to diagnose plants and check diagnosis logs
+- Remove sick plants
+- Harvest plants and view the harvested plant list
+- Review conversation history with AI
+
+👆 **Easy Plant Care**
+
+- Get growing tips for specific plants from plant details
+- Access high-quality information through expert articles
+- Ask questions through Q&A
+- Check for plant diseases using AI plant diagnosis
+
+👆 **Enjoyable Plant Care**
+
+- Receive daily reports from an AI with a plant's perspective
+- Engage in free conversation with an AI that embodies a plant's perspective
+
+👆 **Guidance on Appropriate User Actions**
+
+- Provide personalized information using AI
+- Prompt specific actions easily with AI, without inconvenience
+    - Order new seeds when a plant is sick
+    - Order new fertilizers when there are soil issues
 
 ## 🔗 Links
 
