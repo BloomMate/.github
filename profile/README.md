@@ -4,7 +4,9 @@
 
 > The class is in collaboration with **LG Electronics**.
 
-![배너](https://github.com/BloomMate/.github/assets/60422588/56d63d10-c5be-4ee7-9d95-40b4e203725f)
+![앱 배너](https://github.com/BloomMate/.github/assets/60422588/6c12efc2-af3a-4f83-b109-f2be6de1bd81)
+
+
 
 
 ## 💡 Abstract
