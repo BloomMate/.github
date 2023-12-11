@@ -81,7 +81,6 @@ The core key features of BloomMate can be divided into four categories.
 |Name(Link)|Tool|
 |----------|----|
 |[UI-UX Design](https://www.figma.com/file/pAob8LLoxAzJst4vmosErD/SE-Plant?type=design&node-id=321-349amode=design&t=SiQVXpMyvYqygplQ-0)|Figma|
-|[Demo Video](https://youtu.be/hUYt6bMIOu4)|Youtube|
 |[BloomMate Blog](https://bloommate.notion.site/About-BloomMate-4a8d8dfca7ed4ef9937b4f1641e0a53d?pvs=4)|Notion|
 |[Project Blog](https://medium.com/@akainoo/bloommate-project-blog-f7e30e2f57ff)|Medium|
 |[ERDiagram](https://dbdocs.io/ash1823/BloomMate)|dbdcos|
