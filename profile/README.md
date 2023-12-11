@@ -4,6 +4,8 @@
 
 > The class is in collaboration with **LG Electronics**.
 
+> Download Link (Android) : https://drive.google.com/drive/folders/1misbKdk9KiIgrsmARhBsaBBLhtyIzM-k?usp=drive_link
+
 ![앱 배너](https://github.com/BloomMate/.github/assets/60422588/6c12efc2-af3a-4f83-b109-f2be6de1bd81)
 
 
@@ -64,6 +66,12 @@ The core key features of BloomMate can be divided into four categories.
     - Order new seeds when a plant is diseased
     - Order new fertilizer when there are soil issues
 
+## 💡 Architecture Design
+
+<img width="1200" alt="image" src="https://github.com/BloomMate/.github/assets/60422588/9212da3a-733e-4923-a704-b2cf382dd208">
+
+
+
 ## 🔗 Links
 
 |Name(Link)|Tool|
@@ -71,7 +79,7 @@ The core key features of BloomMate can be divided into four categories.
 |[UI-UX Design](https://www.figma.com/file/pAob8LLoxAzJst4vmosErD/SE-Plant?type=design&node-id=321-349amode=design&t=SiQVXpMyvYqygplQ-0)|Figma|
 |[Demo Video](https://youtu.be/hUYt6bMIOu4)|Youtube|
 |[BloomMate Blog](https://bloommate.notion.site/About-BloomMate-4a8d8dfca7ed4ef9937b4f1641e0a53d?pvs=4)|Notion|
-|[Tech Blog](https://medium.com/@akainoo/bloommate-project-blog-f7e30e2f57ff)|Medium|
+|[Project Blog](https://medium.com/@akainoo/bloommate-project-blog-f7e30e2f57ff)|Medium|
 |[ERDiagram](https://dbdocs.io/ash1823/BloomMate)|dbdcos|
 |[API Design](https://documenter.getpostman.com/view/29752660/2s9YR9ZDKr)|Postman|
 
