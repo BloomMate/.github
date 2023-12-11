@@ -8,13 +8,11 @@
 
 ![앱 배너](https://github.com/BloomMate/.github/assets/60422588/6c12efc2-af3a-4f83-b109-f2be6de1bd81)
 
-|Promotion Video|Demo Video|
+## 🎬 Videos (Click the thumbnails!! ⬇️)
+
+|Demo Video|Feature Video|
 |---------------|----------|
-|[![Video Label](http://img.youtube.com/vi/hUYt6bMIOu4/0.jpg)](https://youtu.be/hUYt6bMIOu4)|TBA|
-
-
-
-
+|TBA|[![Video Label](http://img.youtube.com/vi/hUYt6bMIOu4/0.jpg)](https://youtu.be/hUYt6bMIOu4)|
 
 
 ## 💡 Abstract
