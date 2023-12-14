@@ -12,7 +12,7 @@
 
 |Demo Video|Feature Video|
 |---------------|----------|
-|TBA|[![Video Label](http://img.youtube.com/vi/hUYt6bMIOu4/0.jpg)](https://youtu.be/hUYt6bMIOu4)|
+|[![Video](https://www.youtube.com/y1AYVyAwP8g/0.jpg)(https://www.youtube.com/y1AYVyAwP8g)]|[![Video Label](http://img.youtube.com/vi/hUYt6bMIOu4/0.jpg)](https://youtu.be/hUYt6bMIOu4)|
 
 
 ## 💡 Abstract
