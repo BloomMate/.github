@@ -95,3 +95,7 @@ The core key features of BloomMate can be divided into four categories.
 |An Soonho|Dept. of Information systems|ash1823@hanyang.ac.kr|Backend Developer|
 |Shin Hyunah|Dept. of Information systems|hyunah0923@hanyang.ac.kr|Frontend Developer<br />Product Designer|
 |Yoon Yongsung|Dept. of Information systems|mirr001003@hanyang.ac.kr|Frontend Developer  <br />UI-UX Designer| 
+
+## 🔥 Awards
+SKT-Hanyang Univ (One of Top 3)
+LG-Hanyang Univ (3rd)
