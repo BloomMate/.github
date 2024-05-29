@@ -86,7 +86,7 @@ The core key features of BloomMate can be divided into four categories.
 |[Project Blog](https://medium.com/@akainoo/bloommate-project-blog-f7e30e2f57ff)|Medium|
 |[ERDiagram](https://dbdocs.io/ash1823/BloomMate)|dbdcos|
 |[API Design](https://documenter.getpostman.com/view/29752660/2s9YR9ZDKr)|Postman|
-|[Finalt Presentation](https://github.com/BloomMate/BloomMate-Document/blob/main/BloomMate_document.pdf)|PDF|
+|[Finalt Presentation](https://github.com/BloomMate/BloomMate-Document/blob/main/BloomMate%20final%20ppt.pdf)|PDF|
 
 ## Contributers
 |**`Name`**|**`Dept`**|**`E-mail`**|**`Role`**|
