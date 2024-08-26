@@ -87,12 +87,12 @@ The core key features of BloomMate can be divided into four categories.
 |[Finalt Presentation](https://github.com/BloomMate/BloomMate-Document/blob/main/BloomMate%20final%20ppt.pdf)|PDF|
 
 ## Contributers
-|**`Name`**|**`Dept`**|**`Role`**|
-|----------|----------|----------|
-|Kim Donghyun|Dept. of Information systems|AI Developer<br />Frontend Developer|
-|An Soonho|Dept. of Information systems|Backend Developer|
-|Shin Hyunah|Dept. of Information systems|Frontend Developer<br />Product Designer|
-|Yoon Yongsung|Dept. of Information systems|Frontend Developer  <br />UI-UX Designer| 
+|**`Name`**|**`Role`**|
+|----------|----------|
+|Kim Donghyun|AI Developer<br />Frontend Developer|
+|An Soonho|Backend Developer|
+|Shin Hyunah|Frontend Developer<br />Product Designer|
+|Yoon Yongsung|Frontend Developer  <br />UI-UX Designer| 
 
 ## 🔥 Awards
 - SKT : One of Top 3
