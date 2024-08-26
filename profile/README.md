@@ -1,7 +1,5 @@
 # 🌾 BloomMate
 **House Gardening with AI Chat using Tiium and SmartCottage**
-> This software is part of a project for **a software engineering class at Hanyang University Information Systems Dept**.
-
 > The class is in collaboration with **LG Electronics**.
 
 > Download Link (Android) : https://drive.google.com/drive/folders/1misbKdk9KiIgrsmARhBsaBBLhtyIzM-k?usp=drive_link
@@ -89,13 +87,13 @@ The core key features of BloomMate can be divided into four categories.
 |[Finalt Presentation](https://github.com/BloomMate/BloomMate-Document/blob/main/BloomMate%20final%20ppt.pdf)|PDF|
 
 ## Contributers
-|**`Name`**|**`Dept`**|**`E-mail`**|**`Role`**|
-|----------|----------|------------|----------|
-|Kim Donghyun|Dept. of Information systems|akainoo@hanyang.ac.kr|AI Developer<br />Frontend Developer|
-|An Soonho|Dept. of Information systems|ash1823@hanyang.ac.kr|Backend Developer|
-|Shin Hyunah|Dept. of Information systems|hyunah0923@hanyang.ac.kr|Frontend Developer<br />Product Designer|
-|Yoon Yongsung|Dept. of Information systems|mirr001003@hanyang.ac.kr|Frontend Developer  <br />UI-UX Designer| 
+|**`Name`**|**`Dept`**|**`Role`**|
+|----------|----------|----------|
+|Kim Donghyun|Dept. of Information systems|AI Developer<br />Frontend Developer|
+|An Soonho|Dept. of Information systems|Backend Developer|
+|Shin Hyunah|Dept. of Information systems|Frontend Developer<br />Product Designer|
+|Yoon Yongsung|Dept. of Information systems|Frontend Developer  <br />UI-UX Designer| 
 
 ## 🔥 Awards
-- SKT-Hanyang Univ (One of Top 3)
-- LG-Hanyang Univ (3rd)
+- SKT : One of Top 3
+- LG Electronics : 3rd
