@@ -4,7 +4,7 @@
 
 > Download Link (Android) : https://drive.google.com/drive/folders/1misbKdk9KiIgrsmARhBsaBBLhtyIzM-k?usp=drive_link
 
-![앱 배너](https://github.com/BloomMate/.github/raw/main/.github/profile/앱배너.png)
+![앱 배너](https://github.com/BloomMate/.github/raw/main/profile/앱%20배너.png)
 
 
 ## 🎬 Videos (Click the thumbnails!! ⬇️)
